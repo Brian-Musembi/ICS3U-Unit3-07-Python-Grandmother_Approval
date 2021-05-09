@@ -43,7 +43,7 @@ def main():
     finally:
         # output
         print("")
-        print("Better luck with someone else!")
+        print("Good luck with your dating!")
 
 
 if __name__ == "__main__":
